@@ -1,0 +1,6 @@
+
+https://www.facebook.com/signup
+//input[@name="firstname"]
+//input[@name="lastname"]
+//input[@name="reg_email__"]
+//input[@type="password"]
